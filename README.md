@@ -1,53 +1,65 @@
-👋 Hi, I’m Paul Olutunmbi
+# 👋 Hi, I’m **Paul Olutunmbi**  
+### *(aka DevHumbl3)* 🚀
 
-(aka DevHumble3)
+🎓 **Computer Science student** at **LAUTECH**  
+💻 **Frontend-focused developer** learning **Python & Web Development**  
+🌱 Growing daily, building real projects, and improving my craft  
 
-🎓 Computer Science student at LAUTECH
-💻 Frontend-focused developer learning Python and Web Development
-🚀 Aspiring Full-Stack Developer
+---
 
-I enjoy building clean, responsive user interfaces and turning designs into working web pages. I’m currently focused on strengthening my frontend fundamentals while growing toward full-stack development.
+## 🧠 About Me ✨
 
-🛠️ Tech Stack (Learning & Using)
+I enjoy turning ideas and designs into **clean, responsive web pages**.  
+I’m currently focused on mastering frontend fundamentals while working my way toward becoming a **full-stack developer**.
 
-Languages: HTML5, CSS3, Python (beginner)
+✨ **Fun facts**:
+- I enjoy solving math problems 🧮  
+- I love watching movies 🎬  
+- I like exploring new tech and tools 🔍  
 
-Frameworks & Tools: Bootstrap, Git, GitHub
+---
 
-Skills: Responsive design, multi-page UI flows, clean layout structuring
+## 🛠️ Tech Stack 🔧
 
-🚀 What I’m Working On
+- 🌐 **HTML5**
+- 🎨 **CSS3**
+- 🧩 **Bootstrap**
+- 🐍 **Python** (beginner)
+- 🔁 **Git & GitHub**
 
-Building frontend projects with HTML, CSS & Bootstrap
+---
 
-Practicing responsive layouts and real-world UI flows
+## 🚀 What I’m Working On 💪
 
-Improving my Git & GitHub workflow
+- Strengthening my coding foundation with **frontend projects**
+- Building **responsive layouts** with HTML, CSS & Bootstrap
+- Improving my **Git/GitHub workflow**
+- Preparing for **internships & junior developer roles**
 
-Preparing for internships and junior developer roles
+---
 
-📌 Featured Project
-📚 BookDiverse
+## 📌 Featured Project ⭐
 
-A fully responsive frontend demo bookstore project with:
+### 📚 **BookDiverse**
+A fully responsive **frontend demo bookstore project** that includes:
+- Multi-page navigation
+- Demo authentication & checkout flows
+- Responsive navbar and footer systems
+- Clear demo disclaimers (no real data or payments)
 
-Multi-page navigation
+👉 *Pinned on my GitHub profile*
 
-Authentication and checkout demo flows
+---
 
-Responsive navbar & footer systems
+## 📫 Connect With Me 🤝
 
-Clear demo disclaimers (no real data or payments)
+- 🐙 GitHub: https://github.com/Paulolutunmbi  
+- 💼 LinkedIn: https://linkedin.com/in/paul-olutunmbi-ba61752b6  
+- 📧 Email: oluwatunmbipaul@gmail.com  
 
-➡️ Check it out here: (pin the repo on your GitHub profile)
+---
 
-📫 Connect With Me
+## ⭐ Thanks for Visiting!
 
-GitHub: github.com/Paulolutunmbi
-
-LinkedIn: linkedin.com/in/paul-olutunmbi-ba61752b6
-
-Email: oluwatunmbipaul@gmail.com
-
-⭐️ Thanks for visiting my profile!
-I’m learning, building, and getting better every day.
+I’m learning, building, and improving every day — one project at a time 🚀  
+Feel free to explore my repositories and follow my journey.
