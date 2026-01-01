@@ -1,39 +1,53 @@
-# 👋 Hi, I'm Paul Olutunmbi  
+👋 Hi, I’m Paul Olutunmbi
 
-🌱 I’m currently learning **Python** and **Web Development**  
-🎓 Computer Science student at **LAUTECH**  
-💻 Aspiring **Full-Stack Developer**  
-✨ Fun fact: I enjoy solving math problems, watching movies, and exploring new tech.  
+(aka DevHumble3)
 
----
+🎓 Computer Science student at LAUTECH
+💻 Frontend-focused developer learning Python and Web Development
+🚀 Aspiring Full-Stack Developer
 
-### 🚀 What I’m Working On
-- Strengthening my coding foundation with **Python projects**  
-- Learning **HTML, CSS, and Git/GitHub**  
-- Preparing for future **remote internships**  
+I enjoy building clean, responsive user interfaces and turning designs into working web pages. I’m currently focused on strengthening my frontend fundamentals while growing toward full-stack development.
 
----
+🛠️ Tech Stack (Learning & Using)
 
-### 📫 Connect with Me
-- GitHub: [github.com/Paulolutunmbi](https://github.com/Paulolutunmbi)    
-- LinkedIn: [linkedin.com/in/paul-olutunmbi-ba61752b6](https://linkedin.com/in/paul-olutunmbi-ba61752b6)
-- Email: [oluwatunmbipaul@gmail.com](mailto:oluwatunmbipaul@gmail.com)
+Languages: HTML5, CSS3, Python (beginner)
 
----
+Frameworks & Tools: Bootstrap, Git, GitHub
 
-⭐️ Thanks for visiting my profile!    
+Skills: Responsive design, multi-page UI flows, clean layout structuring
 
-<!--
-**Paulolutunmbi/Paulolutunmbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 What I’m Working On
 
-Here are some ideas to get you started:
+Building frontend projects with HTML, CSS & Bootstrap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Practicing responsive layouts and real-world UI flows
+
+Improving my Git & GitHub workflow
+
+Preparing for internships and junior developer roles
+
+📌 Featured Project
+📚 BookDiverse
+
+A fully responsive frontend demo bookstore project with:
+
+Multi-page navigation
+
+Authentication and checkout demo flows
+
+Responsive navbar & footer systems
+
+Clear demo disclaimers (no real data or payments)
+
+➡️ Check it out here: (pin the repo on your GitHub profile)
+
+📫 Connect With Me
+
+GitHub: github.com/Paulolutunmbi
+
+LinkedIn: linkedin.com/in/paul-olutunmbi-ba61752b6
+
+Email: oluwatunmbipaul@gmail.com
+
+⭐️ Thanks for visiting my profile!
+I’m learning, building, and getting better every day.
