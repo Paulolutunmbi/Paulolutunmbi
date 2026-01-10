@@ -22,6 +22,7 @@ Currently focused on **frontend fundamentals** while working toward becoming a *
 ## 🛠️ Tech Stack 🔧
 
 - 🌐 **HTML5**  
+- 🎨 **CSS3**  
 - 🐍 **Python** (beginner)  
 - 🎨 **Tailwind CSS**  
 - 🧩 **Bootstrap**  
@@ -33,6 +34,16 @@ Currently focused on **frontend fundamentals** while working toward becoming a *
 
 Here’s a snapshot of projects I’ve built while learning frontend development:
 
+### 🎓 **EduGrade**  
+**Tech Stack:** HTML, JavaScript, Tailwind CSS  
+A responsive web app that calculates and displays student grades for secondary school, polytechnic, and university levels. Demonstrates dynamic DOM manipulation, event handling, and interactive UI design.
+
+**Status:** Fully responsive  
+- GitHub: [Repo Link](https://github.com/Paulolutunmbi/EduGrade)  
+- Live Demo: [View Here](https://edu-grade-kappa.vercel.app/)
+
+---
+
 ### 📚 **BookDiverse**  
 **Tech Stack:** HTML, CSS, Bootstrap, Tailwind CSS  
 A fully responsive bookstore web app demo. Features:  
@@ -43,16 +54,6 @@ A fully responsive bookstore web app demo. Features:
 **Status:** Fully responsive  
 - GitHub: [Repo Link](https://github.com/Paulolutunmbi/project_bookdiverse-SQI)  
 - Live Demo: [View Here](https://project-bookdiverse-sqi.vercel.app/)
-
----
-
-### 🎓 **EduGrade**  
-**Tech Stack:** HTML, JavaScript, Tailwind CSS  
-A responsive web app that calculates and displays student grades for secondary school, polytechnic, and university levels. Demonstrates dynamic DOM manipulation, event handling, and interactive UI design.
-
-**Status:** Fully responsive  
-- GitHub: [Repo Link](https://github.com/Paulolutunmbi/EduGrade)  
-- Live Demo: [View Here](https://edu-grade-kappa.vercel.app/)
 
 ---
 
