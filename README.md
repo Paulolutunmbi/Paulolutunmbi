@@ -3,14 +3,14 @@
 
 🎓 **Computer Science student** at **LAUTECH**  
 💻 **Frontend-focused developer** learning **Python & Web Development**  
-🌱 Growing daily, building real projects, and improving my craft  
+🌱 Building real projects daily while improving my skills  
 
 ---
 
 ## 🧠 About Me ✨
 
 I enjoy turning ideas and designs into **clean, responsive web pages**.  
-I’m currently focused on mastering frontend fundamentals while working my way toward becoming a **full-stack developer**.
+Currently focused on **frontend fundamentals** while working toward becoming a **full-stack software engineer**.  
 
 ✨ **Fun facts**:
 - I enjoy solving math problems 🧮  
@@ -21,40 +21,81 @@ I’m currently focused on mastering frontend fundamentals while working my way 
 
 ## 🛠️ Tech Stack 🔧
 
-- 🌐 **HTML5**
-- 🎨 **CSS3**
-- 🧩 **Bootstrap**
-- 🐍 **Python** (beginner)
-- 🔁 **Git & GitHub**
+- 🌐 **HTML5**  
+- 🐍 **Python** (beginner)  
+- 🎨 **Tailwind CSS**  
+- 🧩 **Bootstrap**  
+- 🔁 **Git & GitHub**  
 
 ---
 
-## 🚀 What I’m Working On 💪
+## 🚀 Projects 💪
 
-- Strengthening my coding foundation with **frontend projects**
-- Building **responsive layouts** with HTML, CSS & Bootstrap
-- Improving my **Git/GitHub workflow**
-- Preparing for **internships & junior developer roles**
+Here’s a snapshot of projects I’ve built while learning frontend development:
+
+### 📚 **BookDiverse**  
+**Tech Stack:** HTML, CSS, Bootstrap, Tailwind CSS  
+A fully responsive bookstore web app demo. Features:  
+- Multi-page navigation  
+- Demo authentication & checkout flows  
+- Responsive navbar and footer  
+
+**Status:** Fully responsive  
+- GitHub: [Repo Link](https://github.com/Paulolutunmbi/project_bookdiverse-SQI)  
+- Live Demo: [View Here](https://project-bookdiverse-sqi.vercel.app/)
 
 ---
 
-## 📌 Featured Project ⭐
+### 🎓 **EduGrade**  
+**Tech Stack:** HTML, JavaScript, Tailwind CSS  
+A responsive web app that calculates and displays student grades for secondary school, polytechnic, and university levels. Demonstrates dynamic DOM manipulation, event handling, and interactive UI design.
 
-### 📚 **BookDiverse**
-A fully responsive **frontend demo bookstore project** that includes:
-- Multi-page navigation
-- Demo authentication & checkout flows
-- Responsive navbar and footer systems
-- Clear demo disclaimers (no real data or payments)
+**Status:** Fully responsive  
+- GitHub: [Repo Link](https://github.com/Paulolutunmbi/EduGrade)  
+- Live Demo: [View Here](https://edu-grade-kappa.vercel.app/)
 
-👉 *Pinned on my GitHub profile*
+---
+
+### 🌐 **Web.dev Clone**  
+**Tech Stack:** HTML, CSS  
+A clone of the Web.dev landing page to practice layout and responsive design skills.  
+**Note:** Best viewed on larger screens (desktop/laptop)  
+- GitHub: [Repo Link](https://github.com/Paulolutunmbi/web-dev-clone)  
+- Live Demo: [View Here](https://web-dev-clone-jade.vercel.app)
+
+---
+
+### ✨ **Animation Project**  
+**Tech Stack:** HTML, CSS  
+Focused on practicing CSS animations, keyframes, and transitions.  
+**Note:** Best viewed on larger screens (desktop/laptop)  
+- GitHub: [Repo Link](https://github.com/Paulolutunmbi/Animation)  
+- Live Demo: [View Here](https://animation-hazel-rho.vercel.app)
+
+---
+
+### 🌌 **Solar System**  
+**Tech Stack:** HTML, CSS  
+A solar system visualization project built with HTML/CSS to practice positioning and layout.  
+**Note:** Best viewed on larger screens (desktop/laptop)  
+- GitHub: [Repo Link](https://github.com/Paulolutunmbi/solar-system)  
+- Live Demo: [View Here](https://solar-system-rho-ashen.vercel.app/)
+
+---
+
+### 📝 **Wikipedia Landing Page Clone**  
+**Tech Stack:** HTML, CSS  
+A clone of the Wikipedia landing page to practice semantic HTML and layout organization.  
+**Note:** Best viewed on larger screens (desktop/laptop)  
+- GitHub: [Repo Link](https://github.com/Paulolutunmbi/Wikipedia-clone)  
+- Live Demo: [View Here](https://wikipedia-clone-rosy.vercel.app/)
 
 ---
 
 ## 📫 Connect With Me 🤝
 
-- 🐙 GitHub: https://github.com/Paulolutunmbi  
-- 💼 LinkedIn: https://linkedin.com/in/paul-olutunmbi-ba61752b6  
+- 🐙 GitHub: [Paulolutunmbi](https://github.com/Paulolutunmbi)  
+- 💼 LinkedIn: [Paul Olutunmbi](https://linkedin.com/in/paul-olutunmbi-ba61752b6)  
 - 📧 Email: oluwatunmbipaul@gmail.com  
 
 ---
