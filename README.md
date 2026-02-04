@@ -2,50 +2,43 @@
 ### *(aka DevHumbl3)* 🚀
 
 🎓 **Computer Science student** at **LAUTECH**  
-💻 **Frontend-focused developer** learning **Python, JavaScript & Web Development**  
-🌱 Building **real-world projects daily** and leveling up toward **full-stack development**  
+💻 **Frontend-focused developer** learning **Python & Web Development**  
+🌱 Building real projects daily while improving my skills  
 
 ---
 
 ## 🧠 About Me ✨
 
-I love turning ideas and designs into **clean, interactive, and responsive web pages**.  
-Currently focused on **frontend fundamentals** while building a path to becoming a **full-stack software engineer**.  
+I enjoy turning ideas and designs into **clean, responsive web pages**.  
+Currently focused on **frontend fundamentals** while working toward becoming a **full-stack software engineer**.  
 
-**Fun Facts:**  
+✨ **Fun facts**:
 - I enjoy solving math problems 🧮  
 - I love watching movies 🎬  
-- I’m always exploring new tech, frameworks, and tools 🔍  
+- I like exploring new tech and tools 🔍  
 
 ---
 
 ## 🛠️ Tech Stack 🔧
 
-**Markup & Styling:**  
-- 🌐 HTML5  
-- 🎨 CSS3  
-- 🎨 Tailwind CSS  
-- 🧩 Bootstrap  
-
-**Programming Languages:**  
-- ⚡ JavaScript  
-- 🐍 Python (beginner)  
-
-**Tools & Concepts:**  
-- 🔁 Git & GitHub  
-- 💡 DOM Manipulation, Responsive Design, UI/UX Principles  
+- 🌐 **HTML5**  
+- 🎨 **CSS3**  
+- 🐍 **Python** (beginner)  
+- 🎨 **Tailwind CSS**  
+- 🧩 **Bootstrap**  
+- 🔁 **Git & GitHub**  
 
 ---
 
 ## 🚀 Projects 💪
 
-Here are some of my projects that showcase my frontend development skills:
+Here’s a snapshot of projects I’ve built while learning frontend development:
 
 ### 🎓 **EduGrade**  
 **Tech Stack:** HTML, JavaScript, Tailwind CSS  
-A responsive web app that calculates and displays student grades across school and university levels. Highlights **DOM manipulation, event handling, and interactive UI**.  
+A responsive web app that calculates and displays student grades for secondary school, polytechnic, and university levels. Demonstrates dynamic DOM manipulation, event handling, and interactive UI design.
 
-- **Status:** Fully responsive  
+**Status:** Fully responsive  
 - GitHub: [Repo Link](https://github.com/Paulolutunmbi/EduGrade)  
 - Live Demo: [View Here](https://edu-grade-kappa.vercel.app/)
 
@@ -53,9 +46,12 @@ A responsive web app that calculates and displays student grades across school a
 
 ### 📚 **BookDiverse**  
 **Tech Stack:** HTML, CSS, Bootstrap, Tailwind CSS  
-A fully responsive bookstore demo app with **multi-page navigation, demo authentication & checkout flows**, and polished UI components.  
+A fully responsive bookstore web app demo. Features:  
+- Multi-page navigation  
+- Demo authentication & checkout flows  
+- Responsive navbar and footer  
 
-- **Status:** Fully responsive  
+**Status:** Fully responsive  
 - GitHub: [Repo Link](https://github.com/Paulolutunmbi/project_bookdiverse-SQI)  
 - Live Demo: [View Here](https://project-bookdiverse-sqi.vercel.app/)
 
@@ -63,8 +59,8 @@ A fully responsive bookstore demo app with **multi-page navigation, demo authent
 
 ### 🌐 **Web.dev Clone**  
 **Tech Stack:** HTML, CSS  
-A clone of the Web.dev landing page to practice **layout, semantic HTML, and responsive design**.  
-
+A clone of the Web.dev landing page to practice layout and responsive design skills.  
+**Note:** Best viewed on larger screens (desktop/laptop)  
 - GitHub: [Repo Link](https://github.com/Paulolutunmbi/web-dev-clone)  
 - Live Demo: [View Here](https://web-dev-clone-jade.vercel.app)
 
@@ -72,8 +68,8 @@ A clone of the Web.dev landing page to practice **layout, semantic HTML, and res
 
 ### ✨ **Animation Project**  
 **Tech Stack:** HTML, CSS  
-Practiced **CSS animations, keyframes, and transitions**.  
-
+Focused on practicing CSS animations, keyframes, and transitions.  
+**Note:** Best viewed on larger screens (desktop/laptop)  
 - GitHub: [Repo Link](https://github.com/Paulolutunmbi/Animation)  
 - Live Demo: [View Here](https://animation-hazel-rho.vercel.app)
 
@@ -81,19 +77,19 @@ Practiced **CSS animations, keyframes, and transitions**.
 
 ### 🌌 **Solar System**  
 **Tech Stack:** HTML, CSS  
-A **solar system visualization** project to practice layout, positioning, and visual hierarchy.  
-
+A solar system visualization project built with HTML/CSS to practice positioning and layout.  
+**Note:** Best viewed on larger screens (desktop/laptop)  
 - GitHub: [Repo Link](https://github.com/Paulolutunmbi/solar-system)  
-- Live Demo: [View Here](https://solar-system-rho-ashen.vercel.app)
+- Live Demo: [View Here](https://solar-system-rho-ashen.vercel.app/)
 
 ---
 
 ### 📝 **Wikipedia Landing Page Clone**  
 **Tech Stack:** HTML, CSS  
-A **semantic HTML and layout practice project** replicating the Wikipedia landing page.  
-
+A clone of the Wikipedia landing page to practice semantic HTML and layout organization.  
+**Note:** Best viewed on larger screens (desktop/laptop)  
 - GitHub: [Repo Link](https://github.com/Paulolutunmbi/Wikipedia-clone)  
-- Live Demo: [View Here](https://wikipedia-clone-rosy.vercel.app)
+- Live Demo: [View Here](https://wikipedia-clone-rosy.vercel.app/)
 
 ---
 
@@ -107,5 +103,5 @@ A **semantic HTML and layout practice project** replicating the Wikipedia landin
 
 ## ⭐ Thanks for Visiting!
 
-I’m **learning, building, and improving every day** — one project at a time 🚀  
-Explore my repositories and follow my journey as I grow into a full-stack software engineer.
+I’m learning, building, and improving every day — one project at a time 🚀  
+Feel free to explore my repositories and follow my journey.
