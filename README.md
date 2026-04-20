@@ -1,111 +1,111 @@
-# 👋 Hi, I’m **Paul Olutunmbi**  
-### *(aka DevHumbl3)* 🚀
+# 👋 Hi, I’m Paul Olutunmbi (DevHumbl3) 🚀
 
-🎓 **Computer Science student** at **LAUTECH**  
-💻 **Frontend-focused developer** learning **Python, JavaScript & Web Development**  
-🌱 Building **real-world projects daily** and leveling up toward **full-stack development**  
-
----
-
-## 🧠 About Me ✨
-
-I love turning ideas and designs into **clean, interactive, and responsive web pages**.  
-Currently focused on **frontend fundamentals** while building a path to becoming a **full-stack software engineer**.  
-
-**Fun Facts:**  
-- I enjoy solving math problems 🧮  
-- I love watching movies 🎬  
-- I’m always exploring new tech, frameworks, and tools 🔍  
+🎓 Computer Science student at LAUTECH  
+💻 Frontend-focused developer transitioning into full-stack (MERN)  
+🌱 Passionate about building real-world web applications and improving user experience  
+⚡ Currently learning: React, Node.js, MongoDB, Firebase, and system design basics  
 
 ---
 
-## 🛠️ Tech Stack 🔧
+## 🧠 About Me
 
-**Markup & Styling:**  
-- 🌐 HTML5  
-- 🎨 CSS3  
-- 🎨 Tailwind CSS  
-- 🧩 Bootstrap  
+I enjoy building clean, responsive, and interactive web applications that solve real problems.  
+My focus is moving from frontend development into full-stack engineering by building consistent real-world projects.
 
-**Programming Languages:**  
-- ⚡ JavaScript  
-- 🐍 Python (beginner)  
-
-**Tools & Concepts:**  
-- 🔁 Git & GitHub  
-- 💡 DOM Manipulation, Responsive Design, UI/UX Principles  
+I actively use modern tools like **Git/GitHub, Firebase, Bootstrap, Tailwind CSS, and AI tools (ChatGPT, Claude)** to improve productivity and development speed.
 
 ---
 
-## 🚀 Projects 💪
+## 🛠️ Tech Stack
 
-Here are some of my projects that showcase my frontend development skills:
+### Frontend
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- Tailwind CSS
+- Bootstrap
+- React (learning/ongoing)
 
-### 🎓 **EduGrade**  
-**Tech Stack:** HTML, JavaScript, Tailwind CSS  
-A responsive web app that calculates and displays student grades across school and university levels. Highlights **DOM manipulation, event handling, and interactive UI**.  
+### Backend
+- Node.js
+- Express.js
 
-- **Status:** Fully responsive  
-- GitHub: [Repo Link](https://github.com/Paulolutunmbi/EduGrade)  
-- Live Demo: [View Here](https://edu-grade-kappa.vercel.app/)
+### Database / Backend Services
+- MongoDB
+- Firebase
+- Firestore
 
----
-
-### 📚 **BookDiverse**  
-**Tech Stack:** HTML, CSS, Bootstrap, Tailwind CSS  
-A fully responsive bookstore demo app with **multi-page navigation, demo authentication & checkout flows**, and polished UI components.  
-
-- **Status:** Fully responsive  
-- GitHub: [Repo Link](https://github.com/Paulolutunmbi/project_bookdiverse-SQI)  
-- Live Demo: [View Here](https://project-bookdiverse-sqi.vercel.app/)
-
----
-
-### 🌐 **Web.dev Clone**  
-**Tech Stack:** HTML, CSS  
-A clone of the Web.dev landing page to practice **layout, semantic HTML, and responsive design**.  
-
-- GitHub: [Repo Link](https://github.com/Paulolutunmbi/web-dev-clone)  
-- Live Demo: [View Here](https://web-dev-clone-jade.vercel.app)
+### Tools
+- Git & GitHub
+- REST APIs
+- AI tools (ChatGPT, Claude)
 
 ---
 
-### ✨ **Animation Project**  
-**Tech Stack:** HTML, CSS  
-Practiced **CSS animations, keyframes, and transitions**.  
+## 🚀 Projects
 
-- GitHub: [Repo Link](https://github.com/Paulolutunmbi/Animation)  
-- Live Demo: [View Here](https://animation-hazel-rho.vercel.app)
+### 📸 Glimpse — Photo Sharing App (MERN Stack)
+🔗 Live: https://glimpse-theta-swart.vercel.app/  
+🔗 GitHub: https://github.com/Paulolutunmbi/Glimpse  
 
----
-
-### 🌌 **Solar System**  
-**Tech Stack:** HTML, CSS  
-A **solar system visualization** project to practice layout, positioning, and visual hierarchy.  
-
-- GitHub: [Repo Link](https://github.com/Paulolutunmbi/solar-system)  
-- Live Demo: [View Here](https://solar-system-rho-ashen.vercel.app)
+A full-stack photo sharing application where users can upload images with captions, like, comment, and manage profiles.  
+Currently integrating authentication and cloud storage for images.
 
 ---
 
-### 📝 **Wikipedia Landing Page Clone**  
-**Tech Stack:** HTML, CSS  
-A **semantic HTML and layout practice project** replicating the Wikipedia landing page.  
+### 🚗 Velocity Garage — Car Marketplace App
+🔗 Live: https://velocity-garage-murex.vercel.app/  
+🔗 GitHub: https://github.com/Paulolutunmbi/velocity-garage  
 
-- GitHub: [Repo Link](https://github.com/Paulolutunmbi/Wikipedia-clone)  
-- Live Demo: [View Here](https://wikipedia-clone-rosy.vercel.app)
-
----
-
-## 📫 Connect With Me 🤝
-
-- 🐙 GitHub: [Paulolutunmbi](https://github.com/Paulolutunmbi)  
-- 💼 LinkedIn: [Paul Olutunmbi](https://linkedin.com/in/paul-olutunmbi-ba61752b6)  
-- 📧 Email: oluwatunmbipaul@gmail.com  
+A dynamic car marketplace web app with search, filtering, favorites, and comparison features using JavaScript and localStorage.
 
 ---
 
-## ⭐ Thanks for Visiting!
+### 🎓 EduGrade
+🔗 Live: https://edu-grade-kappa.vercel.app/  
+🔗 GitHub: https://github.com/Paulolutunmbi/EduGrade  
 
-I’m **learning, building, and improving every day** — one project at a time 🚀  
-Explore my repositories and follow my journey as I grow into a full-stack software engineer.
+A grade calculator web app demonstrating DOM manipulation and interactive UI logic.
+
+---
+
+### 📚 BookDiverse
+🔗 Live: https://project-bookdiverse-sqi.vercel.app/  
+🔗 GitHub: https://github.com/Paulolutunmbi/project_bookdiverse-SQI  
+
+A responsive bookstore UI with multi-page navigation and checkout flow simulation.
+
+---
+
+### 🌐 Portfolio Website
+🔗 Live: https://humble-one.vercel.app/  
+🔗 GitHub: https://github.com/Paulolutunmbi/Humble  
+
+Personal portfolio showcasing my projects and development journey.
+
+---
+
+### 🧪 Other Projects
+- Web.dev Clone → https://web-dev-clone-jade.vercel.app  
+- Animation Project → https://animation-hazel-rho.vercel.app  
+- Solar System → https://solar-system-rho-ashen.vercel.app  
+- Wikipedia Clone → https://wikipedia-clone-rosy.vercel.app  
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/Paulolutunmbi  
+- LinkedIn: https://linkedin.com/in/paul-olutunmbi-ba61752b6  
+- Email: oluwatunmbipaul@gmail.com  
+
+---
+
+## ⭐ Goals
+
+- Become a strong full-stack developer (MERN)
+- Build scalable real-world applications
+- Land internship / junior developer role
+- Keep improving through consistent projects
+
+---
