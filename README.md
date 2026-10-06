@@ -1,111 +1,59 @@
-# 👋 Hi, I’m Paul Olutunmbi (DevHumbl3) 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hey👋%20I'm%20Paul%20Olutunmbi&fontSize=45&animation=twinkling" alt="Header"/>
 
-🎓 Computer Science student at LAUTECH  
-💻 Frontend-focused developer transitioning into full-stack (MERN)  
-🌱 Passionate about building real-world web applications and improving user experience  
-⚡ Currently learning: React, Node.js, MongoDB, Firebase, and system design basics  
+<h3 align="center">Computer Science student and Full-Stack Developer from Nigeria, building real-world applications and exploring Cloud, DevOps, AI and Web3.</h3>
 
 ---
 
-## 🧠 About Me
-
-I enjoy building clean, responsive, and interactive web applications that solve real problems.  
-My focus is moving from frontend development into full-stack engineering by building consistent real-world projects.
-
-I actively use modern tools like **Git/GitHub, Firebase, Bootstrap, Tailwind CSS, and AI tools (ChatGPT, Claude)** to improve productivity and development speed.
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- Tailwind CSS
-- Bootstrap
-- React (learning/ongoing)
-
-### Backend
-- Node.js
-- Express.js
-
-### Database / Backend Services
-- MongoDB
-- Firebase
-- Firestore
-
-### Tools
-- Git & GitHub
-- REST APIs
-- AI tools (ChatGPT, Claude)
+* 🎓 Computer Science student at **LAUTECH**
+* 💻 Full-Stack Developer focused on **JavaScript, React and Node.js**
+* ☁️ Currently exploring **Cloud & DevOps**
+* 🤖 Exploring **AI engineering and intelligent applications**
+* ⛓️ Learning and building with **Web3**
+* 🚀 Currently building and experimenting with real-world projects
 
 ---
 
-## 🚀 Projects
+<h3 align="left">Connect with me:</h3>
 
-### 📸 Glimpse — Photo Sharing App (MERN Stack)
-🔗 Live: https://glimpse-theta-swart.vercel.app/  
-🔗 GitHub: https://github.com/Paulolutunmbi/Glimpse  
-
-A full-stack photo sharing application where users can upload images with captions, like, comment, and manage profiles.  
-Currently integrating authentication and cloud storage for images.
-
----
-
-### 🚗 Velocity Garage — Car Marketplace App
-🔗 Live: https://velocity-garage-murex.vercel.app/  
-🔗 GitHub: https://github.com/Paulolutunmbi/velocity-garage  
-
-A dynamic car marketplace web app with search, filtering, favorites, and comparison features using JavaScript and localStorage.
-
----
-
-### 🎓 EduGrade
-🔗 Live: https://edu-grade-kappa.vercel.app/  
-🔗 GitHub: https://github.com/Paulolutunmbi/EduGrade  
-
-A grade calculator web app demonstrating DOM manipulation and interactive UI logic.
+<p align="left">
+  <a href="https://linkedin.com/in/paul-olutunmbi-ba61752b" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Paulolutunmbi" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+  </a>
+  <a href="mailto:oluwatunmbipaul@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="Gmail" />
+  </a>
+  <a href="https://olutunmbipaul.xyz" target="_blank">
+    🌐
+  </a>
+</p>
 
 ---
 
-### 📚 BookDiverse
-🔗 Live: https://project-bookdiverse-sqi.vercel.app/  
-🔗 GitHub: https://github.com/Paulolutunmbi/project_bookdiverse-SQI  
+<h3 align="left">Tech Stack:</h3>
 
-A responsive bookstore UI with multi-page navigation and checkout flow simulation.
-
----
-
-### 🌐 Portfolio Website
-🔗 Live: https://humble-one.vercel.app/  
-🔗 GitHub: https://github.com/Paulolutunmbi/Humble  
-
-Personal portfolio showcasing my projects and development journey.
-
----
-
-### 🧪 Other Projects
-- Web.dev Clone → https://web-dev-clone-jade.vercel.app  
-- Animation Project → https://animation-hazel-rho.vercel.app  
-- Solar System → https://solar-system-rho-ashen.vercel.app  
-- Wikipedia Clone → https://wikipedia-clone-rosy.vercel.app  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+</p>
 
 ---
 
-## 📫 Connect With Me
+<h3 align="center">GitHub Stats:</h3>
 
-- GitHub: https://github.com/Paulolutunmbi  
-- LinkedIn: https://linkedin.com/in/paul-olutunmbi-ba61752b6  
-- Email: oluwatunmbipaul@gmail.com  
-
----
-
-## ⭐ Goals
-
-- Become a strong full-stack developer (MERN)
-- Build scalable real-world applications
-- Land internship / junior developer role
-- Keep improving through consistent projects
-
----
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Paulolutunmbi&show_icons=true&hide_border=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulolutunmbi&layout=compact&hide_border=true" height="150" alt="Top Languages" />
+</div>
