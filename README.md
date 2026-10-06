@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Paul%20Olutunmbi&fontSize=54&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%C2%B7%20Cloud%20%26%20DevOps%20%C2%B7%20Web3%20Builder&descSize=18&descAlignY=60" width="100%" alt="Paul Olutunmbi"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Paul%20Olutunmbi&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Cloud%20and%20DevOps%20%7C%20Web3%20Builder&descSize=18&descAlignY=62" width="100%" alt="Paul Olutunmbi"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1200&color=36BCF7&center=true&vCenter=true&width=640&lines=Computer+Science+student+at+LAUTECH;I+learn+by+building%2C+breaking%2C+fixing+and+shipping;Building+real-world+apps+with+MERN%2C+Cloud+and+Web3" alt="Typing intro"/>
 
@@ -8,20 +8,13 @@
 
 <a href="https://olutunmbipaul.xyz">
   <img src="https://img.shields.io/badge/🌐_Portfolio-olutunmbipaul.xyz-111111?style=for-the-badge" alt="Portfolio"/>
-</a>
-<a href="https://linkedin.com/in/paul-olutunmbi-ba61752b">
+</a><a href="https://linkedin.com/in/paul-olutunmbi-ba61752b">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://x.com/DevHumbl3">
+</a><a href="https://x.com/DevHumbl3">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-</a>
-<a href="https://wa.me/2347071102618">
+</a><a href="https://wa.me/2347071102618">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Paulolutunmbi&label=Profile%20views&color=2c5364&style=flat-square" alt="Profile views"/>
 
 </div>
 
@@ -109,7 +102,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Paulolutunmbi&bg_color=0d1117&color=36BCF7&line=2c9cc9&point=ffffff&area=true&area_color=36BCF7&hide_border=true&custom_title=Paul%27s%20Contribution%20Graph" width="95%" alt="GitHub Activity Graph"/>
+<img src="https://ghchart.rshah.org/36BCF7/Paulolutunmbi" width="95%" alt="GitHub Contributions"/>
 
 </div>
 
