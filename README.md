@@ -2,13 +2,13 @@
 
 # ⚡ Paul Olutunmbi
 
-### `Full-Stack Developer` · `Cloud & DevOps Enthusiast` · `Web3 Builder`
+### `Full-Stack Developer` · `Cloud & DevOps` · `Web3 Builder`
 
-**Computer Science student at LAUTECH, building real-world applications and exploring the intersection of software, cloud, AI and Web3.**
+**Computer Science student at LAUTECH, building real-world applications and exploring software, cloud, AI and Web3.**
 
 <p>
   <a href="https://olutunmbipaul.xyz">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-olutunmbipaul.xyz-111111?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/🌐_Portfolio-olutunmbipaul.xyz-111111?style=for-the-badge" alt="Portfolio"/>
   </a>
   <a href="https://linkedin.com/in/paul-olutunmbi-ba61752b">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -88,9 +88,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Paulolutunmbi&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Paulolutunmbi&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulolutunmbi&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="170" alt="Most Used Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paulolutunmbi&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="180" alt="Most Used Languages"/>
 
 </div>
 
@@ -100,7 +100,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Paulolutunmbi&theme=dark&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Paulolutunmbi&theme=dark&hide_border=true" width="80%" alt="GitHub Streak"/>
 
 </div>
 
@@ -110,7 +110,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Paulolutunmbi&theme=github-compact&hide_border=true" alt="GitHub Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Paulolutunmbi&theme=github-compact&hide_border=true" width="95%" alt="GitHub Activity Graph"/>
 
 </div>
 
